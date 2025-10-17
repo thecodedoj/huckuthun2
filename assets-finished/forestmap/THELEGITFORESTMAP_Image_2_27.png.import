@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://qjif4xym67nx"
+path.s3tc="res://.godot/imported/THELEGITFORESTMAP_Image_2_27.png-c8524a50f15ea7bca3b5ff695d65c4b3.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "53d2e4bf0aed6e1f182ff78db206e2aa"
+}
+
+[deps]
+
+source_file="res://assets-finished/forestmap/THELEGITFORESTMAP_Image_2_27.png"
+dest_files=["res://.godot/imported/THELEGITFORESTMAP_Image_2_27.png-c8524a50f15ea7bca3b5ff695d65c4b3.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://assets-finished/THELEGITFORESTMAP_Image_2_27.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

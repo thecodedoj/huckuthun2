@@ -1,0 +1,12 @@
+Camera3D
+Node3D
+CharacterBody3D
+DirectionalLight3D
+VoxelGI
+WorldEnvironment
+MeshInstance3D
+CollisionShape3D
+StaticBody3D
+RigidBody3D
+Area2D
+Area3D

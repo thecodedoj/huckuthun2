@@ -1,0 +1,44 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cx82c8o8yld4r"
+path.s3tc="res://.godot/imported/pla_type_63_rocket_launcher_107mm_58.png-dcafa29ea91fa9ca7657fe446d88a28c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "14b79fab568626ed8fa6f424e435936c"
+}
+
+[deps]
+
+source_file="res://assets-finished/Garbage thrower/pla_type_63_rocket_launcher_107mm_58.png"
+dest_files=["res://.godot/imported/pla_type_63_rocket_launcher_107mm_58.png-dcafa29ea91fa9ca7657fe446d88a28c.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://assets-finished/pla_type_63_rocket_launcher_107mm_58.png"
+process/channel_remap/red=0
+process/channel_remap/green=1
+process/channel_remap/blue=2
+process/channel_remap/alpha=3
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
